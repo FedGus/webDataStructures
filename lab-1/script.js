@@ -2,6 +2,7 @@
 let nElems = 0;                    
 let a = new Array();    
 
+    //------------------------Поиск элемента---------------------
    function find(searchKey){                                      
      let j;
      for(j = 0; j < nElems; j++)                                           
